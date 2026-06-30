@@ -1,0 +1,6 @@
+{
+  "name": "TB-WEBAPP",
+  "description": "Premium Technology & Business Learning Platform for Ethiopian Students in Afaan Oromoo and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
